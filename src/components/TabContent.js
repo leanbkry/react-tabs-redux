@@ -20,8 +20,8 @@ class TabContent extends Component {
         return (
             <div
                 className={classNames({
-                    'tab-content': true,
-                    'tab-content-visible': !!this.props.isVisible
+                    'tabs-panels': true,
+                    'is-active': !!this.props.isVisible
                 })}
                 style={{ ...this.props.style, ...displayStyle }}
             >

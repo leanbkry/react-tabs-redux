@@ -32,8 +32,8 @@ class TabLink extends Component {
         return (
             <div
                 className={classNames({
-                    'tab-link': true,
-                    'tab-link-active': this.props.isActive
+                    'tabs-title': true,
+                    'is-active': this.props.isActive
                 })}
                 style={style}
                 onClick={this.handleClick}
