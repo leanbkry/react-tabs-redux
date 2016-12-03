@@ -1,6 +1,6 @@
 {
   "name": "react-tabs-redux",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Simple, fully customizable React tabs component that can be used in plain React application or with any Flux-like architecture, e.g. Redux",
   "main": "lib/index.js",
   "scripts": {
@@ -19,10 +19,10 @@
     "redux",
     "flux"
   ],
-  "author": "Patrik Piskay",
+  "author": "LEAN BAKERY",
   "repository": {
     "type": "git",
-    "url": "https://github.com/patrik-piskay/react-tabs-redux"
+    "url": "https://github.com/leanbkry/react-tabs-redux"
   },
   "license": "MIT",
   "devDependencies": {

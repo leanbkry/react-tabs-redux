@@ -1,8 +1,10 @@
-# React tabs (Redux compatible)
+# React tabs (Redux + Foundation 6 compatible)
 
 [![Travis](https://img.shields.io/travis/patrik-piskay/react-tabs-redux.svg?style=flat-square)](https://travis-ci.org/patrik-piskay/react-tabs-redux) [![npm](https://img.shields.io/npm/v/react-tabs-redux.svg?style=flat-square)](https://www.npmjs.com/package/react-tabs-redux)
 
 Simple, fully customizable React tabs component that can be used in plain React application or with any Flux-like architecture with external application state, e.g. Redux.
+
++ We've changed the Module to work with Foundation 6 Stylings.
 
 ![React Tabs](https://res.cloudinary.com/web-development/image/upload/v1452427467/anim_fazjn9.gif)
 
